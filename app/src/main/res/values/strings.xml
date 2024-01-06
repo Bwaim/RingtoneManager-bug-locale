@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ringtone</string>
+    <string name="hello">Hello %1s!</string>
 </resources>
