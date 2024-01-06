@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">ringtone</string>
     <string name="hello">Bonjour %1s!</string>
+    <string name="current_locale">Locale courante: %1s</string>
+    <string name="ringtone_picker">Sélecteur de sonnerie</string>
 </resources>
